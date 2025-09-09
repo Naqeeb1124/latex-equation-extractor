@@ -209,6 +209,9 @@ const App: React.FC = () => {
             </div>
           )}
         </main>
+        <footer className="text-center text-gray-500 text-sm mt-8">
+          &copy; Abdelrahman Mohammed 2025
+        </footer>
       </div>
     </div>
   );
