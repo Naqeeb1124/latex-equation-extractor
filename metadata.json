@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX Equation Extractor",
+  "description": "An application that takes a screenshot of a mathematical equation and uses the Gemini API to generate the corresponding LaTeX code.",
+  "requestFramePermissions": []
+}
